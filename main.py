@@ -70,7 +70,7 @@ def menu(title, menu_items, instructions=None):
     """
     separator_len = 64
     print(title)
-    print("=" * separator_len
+    print("=" * separator_len)
 
     if instructions is not None:
         print(instructions)
